@@ -45,6 +45,6 @@ Digite dois números na operação desejada e clique no botão correspondente pa
 ## Autor
 
 | [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
-
 | :---------------------------------------------------------------------------------------------------------------: |
+
 
