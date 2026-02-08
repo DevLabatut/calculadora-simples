@@ -35,7 +35,7 @@ treinar15/
 Clone o projeto:
 
 ```
-git clone https://github.com/DevLabatut/treinar15.git
+git clone https://github.com/DevLabatut/calculadora-simples.git
 ```
 
 Abra o arquivo `index.html` no navegador.
@@ -45,4 +45,5 @@ Digite dois números na operação desejada e clique no botão correspondente pa
 ## Autor
 
 | [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
+
 | :---------------------------------------------------------------------------------------------------------------: |
