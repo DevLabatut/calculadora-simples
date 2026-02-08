@@ -2,6 +2,10 @@
 
 Projeto simples de calculadora desenvolvido com HTML, CSS e JavaScript. Permite realizar operações matemáticas básicas diretamente no navegador.
 
+## Preview
+
+![Preview do projeto](preview.png)
+
 ## Funcionalidades
 
 * Soma de dois números
@@ -46,5 +50,6 @@ Digite dois números na operação desejada e clique no botão correspondente pa
 
 | [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
 | :---------------------------------------------------------------------------------------------------------------: |
+
 
 
