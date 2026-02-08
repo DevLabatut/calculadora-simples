@@ -4,7 +4,9 @@ Projeto simples de calculadora desenvolvido com HTML, CSS e JavaScript. Permite 
 
 ## Preview
 
-![Preview do projeto](preview.png)
+<p align="center">
+  <img src="preview.png" width="800">
+</p>
 
 ## Funcionalidades
 
@@ -50,6 +52,7 @@ Digite dois números na operação desejada e clique no botão correspondente pa
 
 | [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
 | :---------------------------------------------------------------------------------------------------------------: |
+
 
 
 
