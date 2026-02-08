@@ -20,7 +20,7 @@ Projeto simples de calculadora desenvolvido com HTML, CSS e JavaScript. Permite 
 ## Estrutura do Projeto
 
 ```
-treinar15/
+calculadora-simples/
 │
 ├─ index.html
 ├─ css/
@@ -47,3 +47,4 @@ Digite dois números na operação desejada e clique no botão correspondente pa
 | [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
 
 | :---------------------------------------------------------------------------------------------------------------: |
+
