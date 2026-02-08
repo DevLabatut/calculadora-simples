@@ -1,0 +1,65 @@
+body {
+  margin: 40px;
+  background-color: #12171b;
+  color: #e4e7eb;
+}
+
+.grupoSomar,
+.grupoSubtrair,
+.grupoDivisao,
+.grupoMultiplicacao {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #2c333a;
+  background: #1c2228;
+  color: #e4e7eb;
+  width: 120px;
+}
+
+input::placeholder {
+  color: #8a939c;
+}
+
+section {
+  color: #e4e7eb;
+  font-weight: bold;
+}
+
+p {
+  margin-left: 10px;
+  min-width: 40px;
+  font-weight: bold;
+}
+
+button {
+  margin-bottom: 40px;
+  padding: 8px 14px;
+  border-radius: 6px;
+  border: none;
+  background: #2f81f7;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #1f6feb;
+}
+
+input:focus {
+  outline: none;
+  border-color: #2f81f7;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
